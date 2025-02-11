@@ -1,5 +1,6 @@
 # CasPratique
 
+1er commit by Daly 
 Par groupes de 3 :
 - Un élève fait un fork du repository https://github.com/esgi-na-sa/CasPratique
 - Il ajoute les deux autres en tant que collaborateurs
