@@ -1,4 +1,4 @@
-# CasPratique
+e# CasPratique
 
 Par groupes de 3 :
 - Un élève fait un fork du repository https://github.com/esgi-na-sa/CasPratique
@@ -18,3 +18,5 @@ Par groupes de 3 :
 - Pour chacun des 3 : télécharger les deux autres branches de vos collaborateurs
 - Mettre en place une pull request entre la branche de l'élève 1 et de l'élève deux
 - Idem entre l'élève 1 et main
+-eleve 3: Voici ma modification dans le fichier REadme.md
+encore
